@@ -17,3 +17,7 @@ You have been tasked with provisioning the required infrastructure and deploying
 This needs to be automated so that the infrastructure can be discarded as soon as the testing team finishes their tests and gathers their results.
 
 Optional - To add more challenge to the project, once the project is completed, you can try deploying sample website files located in a public S3 Bucket to the Apache Web Server running on an EC2 instance. 
+
+# Design 
+
+![alt text](https://github.com/asalah9/HA-WebApp-CF/blob/main/IAC%20-%20Udacity%20Project%20-%20Ahmed%20Salah.jpeg)
